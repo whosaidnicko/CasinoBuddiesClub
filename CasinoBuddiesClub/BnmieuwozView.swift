@@ -35,6 +35,7 @@ struct BnmieuwozView: View {
                         Image("quirorbpzsoiq")
                             .resizable()
                             .scaledToFit()
+                            .padding(30)
                     }
 
                     NavigationLink {
@@ -43,6 +44,7 @@ struct BnmieuwozView: View {
                         Image("sjirgjbz")
                             .resizable()
                             .scaledToFit()
+                            .padding(30)
                            
                     }
                     .offset(y: 14)
@@ -55,6 +57,7 @@ struct BnmieuwozView: View {
                         Image("qzwurbkosp")
                             .resizable()
                             .scaledToFit()
+                            .padding(30)
                     }
 
                 }
